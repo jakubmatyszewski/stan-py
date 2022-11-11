@@ -1,0 +1,8 @@
+[
+    {
+        "email": "test@example.com",
+        "password": "test1234",
+        "smtp_host": "smtp.wp.pl",
+        "smtp_port": 465
+    }
+]
